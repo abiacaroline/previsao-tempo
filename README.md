@@ -1,11 +1,11 @@
 # 🌤️ Previsão do Tempo
 
-Aplicação de previsão do tempo desenvolvida com **HTML, CSS e JavaScript**, integrada à API **OpenWeatherMap**.  
-Possui um design **moderno, responsivo e intuitivo**, exibindo as principais informações meteorológicas de forma clara e organizada.  
+Aplicação de previsão do tempo desenvolvida com **HTML, CSS e JavaScript**, integrada à API **OpenWeatherMap**. <br>
+O objetivo é praticar o consumo de APIs e o desenvolvimento front-end.
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades:
 
 ✅ Buscar a previsão do tempo em tempo real de qualquer cidade  
 ✅ Mostrar **temperatura atual, máxima e mínima**  
@@ -17,7 +17,7 @@ Possui um design **moderno, responsivo e intuitivo**, exibindo as principais inf
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas:
 
 - **HTML5** → Estrutura da aplicação  
 - **CSS3** → Estilização e responsividade  
@@ -26,15 +26,14 @@ Possui um design **moderno, responsivo e intuitivo**, exibindo as principais inf
 
 ---
 
-## 🌐 Acesse o projeto
+## 🌐 Acesse o projeto:
 
 🔗 [Clique aqui para visualizar o site](https://abiacaroline.github.io/previsao-tempo/)
 
 ---
 
-## 📸 Demonstração
+## 📸 Demonstração:
 
-![Previsão do Tempo](src/images/previsao.png)
-
+  <img src="src/images/projeto.png" alt="Previsão do Tempo" width="350">
 
 ✍️ Desenvolvido por Ábia Caroline 💜
